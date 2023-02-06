@@ -1,2 +1,2 @@
-# JavaScript-Lingauggi
+# JavaScript-Linguaggi
 Esercizi svolti per cercare di passare il corso ... 
